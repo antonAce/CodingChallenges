@@ -1,0 +1,18 @@
+﻿  main.cpp
+f:\sfml development\coding challenges\pendulumchain\pendulumchain\main.cpp(10): warning C4005: _WIN32_WINNT: изменение макроопределения
+  c:\program files (x86)\windows kits\8.1\include\shared\sdkddkver.h(200): note: см. предыдущее определение "_WIN32_WINNT"
+f:\sfml development\coding challenges\pendulumchain\pendulumchain\main.cpp(45): warning C4018: <: несоответствие типов со знаком и без знака
+f:\sfml development\coding challenges\pendulumchain\pendulumchain\main.cpp(47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+f:\sfml development\coding challenges\pendulumchain\pendulumchain\main.cpp(49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+f:\sfml development\coding challenges\pendulumchain\pendulumchain\main.cpp(59): warning C4018: <: несоответствие типов со знаком и без знака
+f:\sfml development\coding challenges\pendulumchain\pendulumchain\main.cpp(67): warning C4305: инициализация: усечение из "double" к "const float"
+f:\sfml development\coding challenges\pendulumchain\pendulumchain\main.cpp(116): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+f:\sfml development\coding challenges\pendulumchain\pendulumchain\main.cpp(118): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+f:\sfml development\coding challenges\pendulumchain\pendulumchain\main.cpp(132): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+f:\sfml development\coding challenges\pendulumchain\pendulumchain\main.cpp(133): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+f:\sfml development\coding challenges\pendulumchain\pendulumchain\main.cpp(169): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+f:\sfml development\coding challenges\pendulumchain\pendulumchain\main.cpp(171): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+f:\sfml development\coding challenges\pendulumchain\pendulumchain\main.cpp(186): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+f:\sfml development\coding challenges\pendulumchain\pendulumchain\main.cpp(187): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  PendulumChain.vcxproj -> F:\SFML Development\Coding challenges\PendulumChain\Debug\PendulumChain.exe
+  PendulumChain.vcxproj -> F:\SFML Development\Coding challenges\PendulumChain\Debug\PendulumChain.pdb (Full PDB)
