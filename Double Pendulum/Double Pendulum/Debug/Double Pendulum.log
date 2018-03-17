@@ -1,18 +1,25 @@
 ﻿  main.cpp
-f:\sfml development\coding challenges\double pendulum\double pendulum\main.cpp(14): warning C4005: _WIN32_WINNT: изменение макроопределения
+f:\sfml development\coding challenges\double pendulum\double pendulum\main.cpp(10): warning C4005: _WIN32_WINNT: изменение макроопределения
   c:\program files (x86)\windows kits\8.1\include\shared\sdkddkver.h(200): note: см. предыдущее определение "_WIN32_WINNT"
-f:\sfml development\coding challenges\double pendulum\double pendulum\main.cpp(49): warning C4018: <: несоответствие типов со знаком и без знака
-f:\sfml development\coding challenges\double pendulum\double pendulum\main.cpp(51): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
-f:\sfml development\coding challenges\double pendulum\double pendulum\main.cpp(53): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
-f:\sfml development\coding challenges\double pendulum\double pendulum\main.cpp(63): warning C4018: <: несоответствие типов со знаком и без знака
-f:\sfml development\coding challenges\double pendulum\double pendulum\main.cpp(73): warning C4305: инициализация: усечение из "double" к "float"
-f:\sfml development\coding challenges\double pendulum\double pendulum\main.cpp(97): warning C4244: аргумент: преобразование "const int" в "float", возможна потеря данных
-f:\sfml development\coding challenges\double pendulum\double pendulum\main.cpp(100): warning C4244: аргумент: преобразование "const int" в "float", возможна потеря данных
-f:\sfml development\coding challenges\double pendulum\double pendulum\main.cpp(103): warning C4244: аргумент: преобразование "const int" в "float", возможна потеря данных
-f:\sfml development\coding challenges\double pendulum\double pendulum\main.cpp(106): warning C4244: аргумент: преобразование "const int" в "float", возможна потеря данных
-f:\sfml development\coding challenges\double pendulum\double pendulum\main.cpp(112): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-f:\sfml development\coding challenges\double pendulum\double pendulum\main.cpp(113): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-f:\sfml development\coding challenges\double pendulum\double pendulum\main.cpp(115): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-f:\sfml development\coding challenges\double pendulum\double pendulum\main.cpp(116): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+f:\sfml development\coding challenges\double pendulum\double pendulum\main.cpp(45): warning C4018: <: несоответствие типов со знаком и без знака
+f:\sfml development\coding challenges\double pendulum\double pendulum\main.cpp(47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+f:\sfml development\coding challenges\double pendulum\double pendulum\main.cpp(49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+f:\sfml development\coding challenges\double pendulum\double pendulum\main.cpp(59): warning C4018: <: несоответствие типов со знаком и без знака
+f:\sfml development\coding challenges\double pendulum\double pendulum\main.cpp(108): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+f:\sfml development\coding challenges\double pendulum\double pendulum\main.cpp(111): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+f:\sfml development\coding challenges\double pendulum\double pendulum\main.cpp(113): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+f:\sfml development\coding challenges\double pendulum\double pendulum\main.cpp(144): warning C4305: инициализация: усечение из "double" к "float"
+f:\sfml development\coding challenges\double pendulum\double pendulum\main.cpp(184): warning C4244: аргумент: преобразование "const int" в "float", возможна потеря данных
+f:\sfml development\coding challenges\double pendulum\double pendulum\main.cpp(187): warning C4244: аргумент: преобразование "const int" в "float", возможна потеря данных
+f:\sfml development\coding challenges\double pendulum\double pendulum\main.cpp(190): warning C4244: аргумент: преобразование "const int" в "float", возможна потеря данных
+f:\sfml development\coding challenges\double pendulum\double pendulum\main.cpp(193): warning C4244: аргумент: преобразование "const int" в "float", возможна потеря данных
+f:\sfml development\coding challenges\double pendulum\double pendulum\main.cpp(196): warning C4244: аргумент: преобразование "const int" в "float", возможна потеря данных
+f:\sfml development\coding challenges\double pendulum\double pendulum\main.cpp(226): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+f:\sfml development\coding challenges\double pendulum\double pendulum\main.cpp(227): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+f:\sfml development\coding challenges\double pendulum\double pendulum\main.cpp(229): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+f:\sfml development\coding challenges\double pendulum\double pendulum\main.cpp(230): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+f:\sfml development\coding challenges\double pendulum\double pendulum\main.cpp(246): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+f:\sfml development\coding challenges\double pendulum\double pendulum\main.cpp(247): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+f:\sfml development\coding challenges\double pendulum\double pendulum\main.cpp(279): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
   Double Pendulum.vcxproj -> F:\SFML Development\Coding challenges\Double Pendulum\Debug\Double Pendulum.exe
   Double Pendulum.vcxproj -> F:\SFML Development\Coding challenges\Double Pendulum\Debug\Double Pendulum.pdb (Full PDB)
