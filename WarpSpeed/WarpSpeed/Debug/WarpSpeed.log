@@ -1,0 +1,15 @@
+﻿  main.cpp
+f:\sfml development\coding challenges\warpspeed\warpspeed\main.cpp(10): warning C4005: _WIN32_WINNT: изменение макроопределения
+  c:\program files (x86)\windows kits\8.1\include\shared\sdkddkver.h(200): note: см. предыдущее определение "_WIN32_WINNT"
+f:\sfml development\coding challenges\warpspeed\warpspeed\main.cpp(38): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+f:\sfml development\coding challenges\warpspeed\warpspeed\main.cpp(39): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+f:\sfml development\coding challenges\warpspeed\warpspeed\main.cpp(40): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+f:\sfml development\coding challenges\warpspeed\warpspeed\main.cpp(69): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+f:\sfml development\coding challenges\warpspeed\warpspeed\main.cpp(70): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+f:\sfml development\coding challenges\warpspeed\warpspeed\main.cpp(71): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+f:\sfml development\coding challenges\warpspeed\warpspeed\main.cpp(103): warning C4305: аргумент: усечение из "double" к "float"
+f:\sfml development\coding challenges\warpspeed\warpspeed\main.cpp(117): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+f:\sfml development\coding challenges\warpspeed\warpspeed\main.cpp(129): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+f:\sfml development\coding challenges\warpspeed\warpspeed\main.cpp(140): warning C4018: <: несоответствие типов со знаком и без знака
+  WarpSpeed.vcxproj -> F:\SFML Development\Coding challenges\WarpSpeed\Debug\WarpSpeed.exe
+  WarpSpeed.vcxproj -> F:\SFML Development\Coding challenges\WarpSpeed\Debug\WarpSpeed.pdb (Full PDB)
